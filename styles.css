@@ -1,0 +1,33 @@
+#titulo {
+    color:tomato ;
+
+}
+p.texto {
+    color: blue;
+}
+p.especial {
+    color: blueviolet;
+}
+div p {
+    color:brown
+
+}
+div h2, div h3 {
+    color:aqua
+}
+* {
+    font: size 24px; 
+    color:black
+}
+/*esto es solo un comentario*/
+.color{
+     border: 5px green dotted;
+     border-width: 2pc;
+} 
+#fondo {
+    background-color: burlywood;
+    background-image:url(css.png) ;
+    background-size:200px 200 px ;
+
+}
+
